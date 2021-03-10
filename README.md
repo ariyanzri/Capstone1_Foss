@@ -11,7 +11,7 @@ Austin is originally from Georgia and completed his undergraduate work at Indian
 
 
 ### Ariyan
-
+Ariyan is a 3rd year PhD student in the department of Computer Science at the University of Arizona. He previously received his B.Sc. in Computer Science from Shahid Beheshti University in Tehran, Iran. He is interested in the applications of Deep Learning and Image Processing in the Medical and Plant Sciences. Ariyan is currently working on the PhytoOracle project and is designing machine learning, computer vision, and statistical models for geo-correction and stitching of high-resolution RGB image data.
 
 ### Reza
 I am a second year PhD student at department of hydrology and atmopheric sciences of the Universtiy of Arizona focused on
