@@ -1,4 +1,5 @@
-# Capstone 1 - CyVerse Foundational Open Science Skills 2021
+# Capstone 1 - CyVerse FOSS 2021
+
 In Capstone I, we will be working to share data management plans with each other using the website materials. Ultimately, we will make a page for our team describing team members, link to the person’s data management plan, etc.
 
 ## Team Members
