@@ -5,12 +5,16 @@ In Capstone I, we will be working to share data management plans with each other
 ## Team Members
 
 <p align="center">
-  <b>Austin Rutherford</b>
+  <b>
+    <font size="+2">
+    Austin Rutherford
+    </font>
+  </b>
 </p>
 
 <p align="center">
   <img src="headshots/Headshot_Rutherford.jpg" width="250" height = "200">
- </p>
+</p>
 
 Austin is originally from Georgia and completed his undergraduate work at Indiana University. Before coming to the University of Arizona, he interned for the Bureau of Land Management in Nevada and was a technician for the US Geological Survey in Utah. He is currently a PhD Candidate within the School of Natural Resources and the Environment in the Ecology, Management, and Restoration of Rangelands program. His dissertation work utilizes field-based experiments to investigate the seedling establishment phase of velvet mesquite shrubs in Sonoran Desert grasslands. These findings guide the development of a geospatial model and an interactive decision support tool to assist land managers in southern Arizona to evaluate a site’s susceptibility to shrub encroachment.
 
