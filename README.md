@@ -3,13 +3,22 @@ In Capstone I, we will be working to share data management plans with each other
 
 ## Team Members
 
-### Austin
+<p align="center">
+  <b>Austin Rutherford</b>
+</p>
 
-
+<p align="center">
+  <img src="headshots/Headshot_Rutherford.jpg" width="250" height = "200">
+ </p>
 
 Austin is originally from Georgia and completed his undergraduate work at Indiana University. Before coming to the University of Arizona, he interned for the Bureau of Land Management in Nevada and was a technician for the US Geological Survey in Utah. He is currently a PhD Candidate within the School of Natural Resources and the Environment in the Ecology, Management, and Restoration of Rangelands program. His dissertation work utilizes field-based experiments to investigate the seedling establishment phase of velvet mesquite shrubs in Sonoran Desert grasslands. These findings guide the development of a geospatial model and an interactive decision support tool to assist land managers in southern Arizona to evaluate a site’s susceptibility to shrub encroachment.
 
-Find more information about projects at the **[Archer Lab Website](https://cals.arizona.edu/research/archer/exotic.html)**
+Find more information about Austin's projects at the **[Archer Lab Website](https://cals.arizona.edu/research/archer/exotic.html)**
+
+He is slowly but surely creating a new Data Management Plan (DMP) for an existing project using the [Data Steward Wizard](https://ds-wizard.org/).
+The [DMPTool](https://dmptool.org) was used originally for the project proposal, but Austin is testing the feature differences between the two tools.
+
+An early draft version of a test DMP using the Data Steward Wizard can be found **[HERE](https://researchers.ds-wizard.org/projects/64a7d204-a248-41de-b481-8da4d557f372).**
 
 ### Kangsan
 I am a second year phd student in the school of geography. One of my interesting area is wildfire, mainly focusing on forest restoration after fires. I prefer using LiDAR and Landsat-derived fire severity dataset. Interesting study area is Southwestern U.S. around Arizona and New Mexico. I am wondering whether we can visualize fire severity datset on the web through this capstone project.
