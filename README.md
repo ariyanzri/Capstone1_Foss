@@ -25,8 +25,12 @@ An early draft version of a test DMP using the Data Steward Wizard can be found 
 I am a second year phd student in the school of geography. One of my interesting area is wildfire, mainly focusing on forest restoration after fires. I prefer using LiDAR and Landsat-derived fire severity dataset. Interesting study area is Southwestern U.S. around Arizona and New Mexico. I am wondering whether we can visualize fire severity datset on the web through this capstone project.
 
 
-### Ariyan
-Ariyan is a 3rd year PhD student in the department of Computer Science at the University of Arizona. He previously received his B.Sc. in Computer Science from Shahid Beheshti University in Tehran, Iran. He is interested in the applications of Deep Learning and Image Processing in the Medical and Plant Sciences. Ariyan is currently working on the PhytoOracle project and is designing machine learning, computer vision, and statistical models for geo-correction and stitching of high-resolution RGB image data.
+<h3 style="text-align:center;color:Green;">Ariyan Zarei</h3>
+<div>
+    <img src="headshots/ariyan.jpg" alt="Ariyan Zarei" width="250" style="display: block;margin-left: auto;margin-right: auto;">
+</div>
+
+Ariyan is a 3rd year PhD student in the department of Computer Science at the University of Arizona. He previously received his B.Sc. in Computer Science from Shahid Beheshti University in Tehran, Iran. He is interested in the applications of Deep Learning and Image Processing in the Medical and Plant Sciences. Ariyan is currently working on the PhytoOracle project and is designing machine learning, computer vision, and statistical models for geo-correction and stitching of high-resolution RGB image data. For more information about Ariyan please visit his **[webpage](http://vision.cs.arizona.edu/ariyanzarei/)**.
 
 <h3 style="text-align:center;color:Green;">Reza Ehsani</h3>
 <p style="text-align:center;">
