@@ -6,11 +6,11 @@ In Capstone I, we will be working to share data management plans with each other
 
 <h3 style="text-align:center;color:Green;">Austin Rutherford</h3>
 <p style="text-align:center;">
-    <img src="headshots/Reza.jpg" alt="Reza Headshot" width="250" height="200" style="border:5px solid black;">
+    <img src="headshots/Headshot_Rutherford.jpg" alt="Reza Headshot" width="250" height="200" style="border:5px solid black;">
    </p>
 
-Reza is a 2-nd year PhD candidate in Hydrology & Atmospheric Sciences at the University of Arizona with BSc in Civil & Environmental Engineering. Before joining UArizona, he was involved in several World Bank Group projects in Tanzania as a water resources expert. His dissertation work is focused on precipitation retrieval in high latitudes
-and cold regions utilizing machine learning & deep learning. These findings guide the development of a geospatial model and an interactive decision support tool to assist land managers in southern Arizona to evaluate a site’s susceptibility to shrub encroachment.
+
+Austin is originally from Georgia and completed his undergraduate work at Indiana University. Before coming to the University of Arizona, he interned for the Bureau of Land Management in Nevada and was a technician for the US Geological Survey in Utah. He is currently a PhD Candidate within the School of Natural Resources and the Environment in the Ecology, Management, and Restoration of Rangelands program. His dissertation work utilizes field-based experiments to investigate the seedling establishment phase of velvet mesquite shrubs in Sonoran Desert grasslands. His finding directly contribute to the improvement of the precipitatio products that is important not only for the present weather observations but also for long-term climate analysis, either by itself or through its contribution to the climate products. 
 
 Find more information about Austin's projects at the **[Archer Lab Website](https://cals.arizona.edu/research/archer/exotic.html)**
 
@@ -30,10 +30,11 @@ Ariyan is a 3rd year PhD student in the department of Computer Science at the Un
 
 <h3 style="text-align:center;color:Green;">Reza Ehsani</h3>
 <p style="text-align:center;">
-    <img src="headshots/Headshot_Rutherford.jpg" alt="Rutherford Headshot" width="250" height="200" style="border:5px solid black;">
+    <img src="headshots/Reza.jpg" alt="Rutherford Headshot" width="250" height="200" style="border:5px solid black;">
    </p>
 
-Austin is originally from Georgia and completed his undergraduate work at Indiana University. Before coming to the University of Arizona, he interned for the Bureau of Land Management in Nevada and was a technician for the US Geological Survey in Utah. He is currently a PhD Candidate within the School of Natural Resources and the Environment in the Ecology, Management, and Restoration of Rangelands program. His dissertation work utilizes field-based experiments to investigate the seedling establishment phase of velvet mesquite shrubs in Sonoran Desert grasslands. His finding directly contribute to the improvement of the precipitatio products that is important not only for the present weather observations but also for long-term climate analysis, either by itself or through its contribution to the climate products. 
+Reza is a 2-nd year PhD candidate in Hydrology & Atmospheric Sciences at the University of Arizona with BSc in Civil & Environmental Engineering. Before joining UArizona, he was involved in several World Bank Group projects in Tanzania as a water resources expert. His dissertation work is focused on precipitation retrieval in high latitudes
+and cold regions utilizing machine learning & deep learning. These findings guide the development of a geospatial model and an interactive decision support tool to assist land managers in southern Arizona to evaluate a site’s susceptibility to shrub encroachment.
 
 Find more information about Reza's projects at the **[LinkedIn.com/in/rehsani/](https://www.linkedin.com/in/rehsani/)**
 
