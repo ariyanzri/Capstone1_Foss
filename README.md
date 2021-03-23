@@ -4,8 +4,6 @@ In Capstone I, we will be working to share data management plans with each other
 
 ## Team Members
 
----
-
 <h3 style="text-align:center;color:Green;">Austin Rutherford</h3>
 <p style="text-align:center;">
     <img src="headshots/Headshot_Rutherford.jpg" alt="Rutherford Headshot" width="250" height="200" style="border:5px solid black;">
