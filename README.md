@@ -30,7 +30,7 @@ Ariyan is a 3rd year PhD student in the department of Computer Science at the Un
 
 <h3 style="text-align:center;color:Green;">Reza Ehsani</h3>
 <p style="text-align:center;">
-    <img src="headshots/Reza.jpg" alt="Rutherford Headshot" width="250" height="200" style="border:5px solid black;">
+    <img src="headshots/Reza.jpg" alt="Rutherford Headshot" width="250" height="250" style="border:5px solid black;">
    </p>
 
 Reza is a 2-nd year PhD candidate in Hydrology & Atmospheric Sciences at the University of Arizona with BSc in Civil & Environmental Engineering. Before joining UArizona, he was involved in several World Bank Group projects in Tanzania as a water resources expert. His dissertation work is focused on precipitation retrieval in high latitudes
