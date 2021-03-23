@@ -34,9 +34,9 @@ Ariyan is a 3rd year PhD student in the department of Computer Science at the Un
    </p>
 
 Reza is a 2-nd year PhD candidate in Hydrology & Atmospheric Sciences at the University of Arizona with BSc in Civil & Environmental Engineering. Before joining UArizona, he was involved in several World Bank Group projects in Tanzania as a water resources expert. His dissertation work is focused on precipitation retrieval in high latitudes
-and cold regions utilizing machine learning & deep learning. These findings guide the development of a geospatial model and an interactive decision support tool to assist land managers in southern Arizona to evaluate a site’s susceptibility to shrub encroachment.
+and cold regions utilizing machine learning & deep learning. His works directly contribute to the improvement of the precipitation products such as NASA GPM IMERG that is important not only for the present weather observations but also for long-term climate analysis, either by itself or through its contribution to the climate products.
 
-Find more information about Reza's projects at the **[LinkedIn.com/in/rehsani/](https://www.linkedin.com/in/rehsani/)**
+You can contact Reza at **[LinkedIn.com/in/rehsani/](https://www.linkedin.com/in/rehsani/)**
 
 Reza is working to create a new Data Management Plan (DMP) using the [Data Steward Wizard](https://ds-wizard.org/).
 
