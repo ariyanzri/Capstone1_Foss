@@ -24,6 +24,7 @@ An early draft version of a test DMP using the Data Steward Wizard can be found 
 ### Kangsan
 I am a second year phd student in the school of geography. One of my interesting area is wildfire, mainly focusing on forest restoration after fires. I prefer using LiDAR and Landsat-derived fire severity dataset. Interesting study area is Southwestern U.S. around Arizona and New Mexico. I am wondering whether we can visualize fire severity datset on the web through this capstone project.
 
+---
 
 <h3 style="text-align:center;color:Green;">Ariyan Zarei</h3>
 <div>
@@ -42,6 +43,6 @@ Ariyan is a 3rd year PhD student in the department of Computer Science at the Un
 Reza is a 2-nd year PhD candidate in Hydrology & Atmospheric Sciences at the University of Arizona with BSc in Civil & Environmental Engineering. Before joining UArizona, he was involved in several World Bank Group projects in Tanzania as a water resources expert. His dissertation work is focused on precipitation retrieval in high latitudes
 and cold regions utilizing machine learning & deep learning. His works directly contribute to the improvement of the precipitation products such as NASA GPM IMERG that is important not only for the present weather observations but also for long-term climate analysis, either by itself or through its contribution to the climate products. You can contact Reza at **[LinkedIn.com/in/rehsani/](https://www.linkedin.com/in/rehsani/)**.
 
+---
 
-#### To-dos?
-Add headshots and connect DMPs.
+#### Thank you for checking out our team!
