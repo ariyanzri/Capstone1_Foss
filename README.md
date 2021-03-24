@@ -25,7 +25,7 @@ An early draft version of a test DMP using the Data Steward Wizard can be found 
 <div>
     <img src="headshots/kangsan_hs.jpg" alt="Kangsan Lee" width="250" style="display: block;margin-left:auto;margin-right:auto;">
 </div>
-I am a second year phd student in the school of geography. One of my interesting area is wildfire, mainly focusing on forest restoration after fires. I prefer using LiDAR and Landsat-derived fire severity dataset. Interesting study area is Southwestern U.S. around Arizona and New Mexico. I am wondering whether we can visualize fire severity datset on the web through this capstone project. For more information about my research in Arizona Remote Sensing Center, please visit **[webpage](https://snre.arizona.edu/facilities/arsc)**.
+I am a second year phd student in the school of geography. One of my interesting area is wildfire, mainly focusing on forest restoration after fires. I prefer using LiDAR and Landsat-derived fire severity dataset. Interesting study area is Southwestern U.S. around Arizona and New Mexico. I am wondering whether we can visualize fire severity datset on the web through this capstone project. For more information about my research in Arizona Remote Sensing Center, please visit **[ARSC](https://snre.arizona.edu/facilities/arsc).**
 
 ---
 
