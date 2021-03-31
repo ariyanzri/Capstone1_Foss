@@ -36,6 +36,8 @@ I am a second year phd student in the school of geography. One of my interesting
 
 Ariyan is a 3rd year PhD student in the department of Computer Science at the University of Arizona. He previously received his B.Sc. in Computer Science from Shahid Beheshti University in Tehran, Iran. He is interested in the applications of Deep Learning and Image Processing in the Medical and Plant Sciences. Ariyan is currently working on the PhytoOracle project and is designing machine learning, computer vision, and statistical models for geo-correction and stitching of high-resolution RGB image data. For more information about Ariyan please visit his **[webpage](http://vision.cs.arizona.edu/ariyanzarei/)**.
 
+During the FOSS sessions, I have learned how to use Github Pages, Containers, Atmosphere Virtual Machines and Cyverse Apps. I can use all these tools to my research right away. Github Pages provides a perfect platform for showcasing my project to the other scientists, Cyverse Apps allow me to share pieces of application that I created with other collaborators and I can use Atmosphere Virtual Machines alongside with containers to test my code in an isolated environment. The greatest barrier to using Containers is that I need to know some networking details such as ports and connections to be able to fully use them in my research. I wish we had convered containers more in depth. 
+
 ---
 
 <h3 style="text-align:center;color:Green;">Reza Ehsani</h3>
