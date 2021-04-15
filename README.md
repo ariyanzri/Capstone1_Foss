@@ -65,13 +65,13 @@ To accomplish this project:
 * Use existing FOSS 2021 Team B GitHub repo for version control of script to run on virtual machine 
 * Create an additional README to outline purpose of project, but also potential next steps/to dos
 
-**Checkout our current project's [Data Management Plan]().**
+**Checkout our project's current [Data Management Plan]().**
 
 **Our FOSS 2021 Team B [GitHub Repo](https://github.com/ariyanzri/Capstone1_Foss).** 
 
-Most of the project specific files are located within our Capstone1_Foss/project [folder](/project).
+**Most of the project specific files are located within our Capstone1_Foss/project [folder](https://github.com/ariyanzri/Capstone1_Foss/tree/main/project).**
 
-**Specific webpage/README for project detail script documentation can be found [here](project/README.md)**
+**Specific page/README for project detail and script documentation can be found [here](project/README.md)**
 
 ---
 # Thank you for your time!
