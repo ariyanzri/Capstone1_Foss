@@ -52,4 +52,24 @@ and cold regions utilizing machine learning & deep learning. His works directly 
 
 ---
 
-#### Thank you for checking out our team!
+# FOSS Capstone II Project
+
+### Goal
+The goal of our project is to use a virtual machine using Atmosphere to run a script that will:
+1. Pull a compressed data folder containing many RGB images from the **[PhytoOracle Project](https://phytooracle.readthedocs.io/en/latest/)'s** CyVerse Data Store
+2. De-compress the data
+3. Run a Docker container from DockerHub container image to open a single image file for viewing
+
+To accomplish this project:
+* Create a Data Management Plan for project using the Data Stewardship Wizard
+* Use existing FOSS 2021 Team B GitHub repo for version control of script to run on virtual machine 
+* Create an additional README to outline purpose of project, but also potential next steps/to dos
+
+**Checkout our current project's [Data Management Plan]().**
+
+**Our FOSS 2021 Team B [GitHub Repo](https://github.com/ariyanzri/Capstone1_Foss)**
+
+Specific README for project
+
+---
+# Thank you for your time!
