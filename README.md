@@ -69,7 +69,7 @@ To accomplish this project:
 
 **Our FOSS 2021 Team B [GitHub Repo](https://github.com/ariyanzri/Capstone1_Foss)**
 
-Specific README for project
+Specific README for project can be found [here](project/README.md)
 
 ---
 # Thank you for your time!
