@@ -67,9 +67,11 @@ To accomplish this project:
 
 **Checkout our current project's [Data Management Plan]().**
 
-**Our FOSS 2021 Team B [GitHub Repo](https://github.com/ariyanzri/Capstone1_Foss)**
+**Our FOSS 2021 Team B [GitHub Repo](https://github.com/ariyanzri/Capstone1_Foss).** 
 
-Specific README for project can be found [here](project/README.md)
+Most of the project specific files are located within our Capstone1_Foss/project [folder](/project).
+
+**Specific webpage/README for project detail script documentation can be found [here](project/README.md)**
 
 ---
 # Thank you for your time!
