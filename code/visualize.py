@@ -20,6 +20,8 @@ exif = {
     if k in PIL.ExifTags.TAGS
 }
 
+print(exif)
+
 #   image = mpimg.imread('{0}/{1}'.format('/home/ariyanzarei/drone_data/2.27.20_P4_15m_RGB/',f))
 #   images.append(image)
 #   images.append(cv2.imread('{0}/{1}'.format('/home/ariyanzarei/drone_data/2.27.20_P4_15m_RGB/',f)))
