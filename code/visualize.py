@@ -25,5 +25,5 @@ for f in list_files:
 # plt.imshow(images[0])
 # plt.show()  
   
-  im.show()
+im.show()
   
