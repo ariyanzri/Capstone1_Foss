@@ -1,7 +1,7 @@
-import cv2
+# import cv2
 import os
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
+# import matplotlib.pyplot as plt
+# import matplotlib.image as mpimg
 import Image
 
 list_files = os.listdir('/home/ariyanzarei/drone_data/2.27.20_P4_15m_RGB/')
