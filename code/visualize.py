@@ -14,6 +14,6 @@ for f in list_files:
   break
   
 plt.imshow(images[0])
-plt.show()  
+# plt.show()  
   
   
