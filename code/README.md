@@ -7,6 +7,8 @@ Steps to run the code
  ```sudo snap install docker```. 
 * Pull this docker from docker hub to run the code with  
 ```sudo docker pull ariyanzarei/full_geocorrection```
+* Install Exif reader on the machine  
+```sudo apt install exif```
 * Clone this github repository.  
 ```git clone https://github.com/ariyanzri/Capstone1_Foss.git```
 * Change directory to   
