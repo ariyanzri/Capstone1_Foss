@@ -4,6 +4,7 @@ import os
 # import matplotlib.image as mpimg
 from PIL import Image
 import piexif
+import PIL.ExifTags
 
 list_files = os.listdir('/home/ariyanzarei/drone_data/2.27.20_P4_15m_RGB/')
 
@@ -11,8 +12,14 @@ images = []
 
 for f in list_files:
   img = Image.open('{0}/{1}'.format('/home/ariyanzarei/drone_data/2.27.20_P4_15m_RGB/',f))
-  exif_dict = piexif.load(img.info['exif'])
-  print(exif_dict)
+#   exif_dict = piexif.load(img.info['exif'])
+#   print(exif_dict)
+exif = {
+    PIL.ExifTags.TAGS[k]: v
+    for k, v in img._getexif().items()
+    if k in PIL.ExifTags.TAGS
+}
+
 #   image = mpimg.imread('{0}/{1}'.format('/home/ariyanzarei/drone_data/2.27.20_P4_15m_RGB/',f))
 #   images.append(image)
 #   images.append(cv2.imread('{0}/{1}'.format('/home/ariyanzarei/drone_data/2.27.20_P4_15m_RGB/',f)))
