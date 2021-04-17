@@ -1,7 +1,7 @@
 import cv2
 import os
-# import matplotlib.pyplot as plt
-# import matplotlib.image as mpimg
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
 from PIL import Image
 import piexif
 
@@ -11,12 +11,11 @@ list_files = os.listdir('/home/ariyanzarei/drone_data/2.27.20_P4_15m_RGB/')
 images = []
 
 for f in list_files:
-  img = Image.open('{0}/{1}'.format('/home/ariyanzarei/drone_data/2.27.20_P4_15m_RGB/',f))
-  exif_dict = piexif.load(img.info['exif'])
-  print('----------------')
-  for e in exif_dict:
-    print(exif_dict[e])
-
+  
+  print('===============================================================================')
+  print(':: Exif data for {0}'.format(f))
+  bashCommand = 'exif {0}/{1}'.format('/home/ariyanzarei/drone_data/2.27.20_P4_15m_RGB/',f)
+  os.system(bashCommand)
 
   
 
