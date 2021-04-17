@@ -6,7 +6,7 @@ Steps to run the code
 * Install docker  
  ```sudo snap install docker```. 
 * Pull this docker from docker hub to run the code with  
-```sudo docker pull ariyanzarei/imerg_deep_learning```
+```sudo docker pull ariyanzarei/full_geocorrection```
 * Clone this github repository.  
 ```git clone https://github.com/ariyanzri/Capstone1_Foss.git```
 * Change directory to   
