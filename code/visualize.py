@@ -7,6 +7,6 @@ list_files = os.listdir('/home/ariyanzarei/drone_data/2.27.20_P4_15m_RGB/')
 
 for f in list_files:
   image = mpimg.imread('{0}/{1}'.format('/home/ariyanzarei/drone_data/2.27.20_P4_15m_RGB/',f))
-  imgplot = plt.imshow(image)
+  plt.imshow(image)
   
   
