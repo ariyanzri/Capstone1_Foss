@@ -8,6 +8,8 @@ for f in list_files:
   
   print('===============================================================================')
   print(':: Exif data for {0}'.format(f))
+  print('===============================================================================')
+  
   bashCommand = 'exif {0}/{1}'.format('/home/ariyanzarei/drone_data/2.27.20_P4_15m_RGB/',f)
   os.system(bashCommand)
 
