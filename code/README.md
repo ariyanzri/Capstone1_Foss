@@ -16,4 +16,4 @@ Steps to run the code
 * Run this file to download the tar file and unzip it  
 ```./run.sh```
 * Run the code file to visualize  
-```sudo docker run -v /home:/home -it ariyanzarei/imerg_deep_learning python3 [path to local git repo]/Capstone1_Foss/code/visualize.py```
+```sudo docker run -v /home:/home -it ariyanzarei/foss_image python3 [path to local git repo]/Capstone1_Foss/code/visualize.py```
