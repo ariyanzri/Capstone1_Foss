@@ -12,7 +12,7 @@ We sought out to apply multiple skills learned during the Spring 2021 CyVerse FO
 ### Project Script and Steps
 A paired down version of this information is available in the [Project GitHub code directory](https://github.com/ariyanzri/Capstone1_Foss/tree/main/code).
 
-Please follow these steps to reproduce the results and perform project task (view image metadata). 
+These steps are assuming use of a virtual machine to perform task, possibly deployed from [CyVerse Atmosphere](https://atmo.cyverse.org). Please follow these steps to reproduce the results and perform project task (e.g., view image metadata).
 
 1. Install Docker  
  ```sudo snap install docker```
@@ -26,9 +26,9 @@ Please follow these steps to reproduce the results and perform project task (vie
 
  - ```sudo \``` gives super user privileges
  - ```docker pull \``` Docker command to pull a container image from a DockerHub repo
- - ```ariyanzarei/foss_image``` DockerHub repo and container image name to pull
+ - ```ariyanzarei/foss_image``` DockerHub repo and container image name to pull (will default to 'latest' tag)
 
-3.  Clone this GitHub repository.  
+3.  Clone this GitHub repository to virtual machine ```/scratch``` workspace.  
 ```git clone https://github.com/ariyanzri/Capstone1_Foss.git```
 
 - ```git clone \``` Git command to clone/copy a remote GitHub repo
@@ -46,7 +46,7 @@ Please follow these steps to reproduce the results and perform project task (vie
 - ```chmod +x \``` Call used to change the access permissions of file system object (script) and executable (```+x``` flag)
 - ```run.sh``` Shell script to be run to perform task
 
-5. Run this file to download the tar file and unzip it  
+5. Run this file to download the tar file and unzip it (_tar file is 3.22GB_) 
 ```./run.sh```
 
 6. Run the code file to visualize  
