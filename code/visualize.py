@@ -1,6 +1,6 @@
 import os
 
-list_files = os.listdir('/home/ariyanzarei/drone_data/2.27.20_P4_15m_RGB/')
+list_files = os.listdir('/root/drone_data/2.27.20_P4_15m_RGB/')
 
 images = []
 
@@ -10,12 +10,12 @@ for f in list_files:
   print(':: Exif data for {0}'.format(f))
   print('===============================================================================')
   
-  bashCommand = 'exif {0}/{1}'.format('/home/ariyanzarei/drone_data/2.27.20_P4_15m_RGB/',f)
+  bashCommand = 'exif {0}/{1}'.format('/root/drone_data/2.27.20_P4_15m_RGB/',f)
   os.system(bashCommand)
 
   
 
-#   image = mpimg.imread('{0}/{1}'.format('/home/ariyanzarei/drone_data/2.27.20_P4_15m_RGB/',f))
+#   image = mpimg.imread('{0}/{1}'.format('/root/drone_data/2.27.20_P4_15m_RGB/',f))
 #   images.append(image)
 #   images.append(cv2.imread('{0}/{1}'.format('/home/ariyanzarei/drone_data/2.27.20_P4_15m_RGB/',f)))
 #   im = Image.open('{0}/{1}'.format('/home/ariyanzarei/drone_data/2.27.20_P4_15m_RGB/',f))
