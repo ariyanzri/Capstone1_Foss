@@ -70,7 +70,7 @@ To accomplish this project:
 **Our FOSS 2021 Team B [GitHub Repo](https://github.com/ariyanzri/Capstone1_Foss).** 
 
 **Project specific README is located within our Capstone1_Foss/[project folder](https://github.com/ariyanzri/Capstone1_Foss/tree/main/project) with our code within
-the Capstone1_Foss/[code folder](https://github.com/ariyanzri/Capstone1_Foss/tree/main/code).
+the Capstone1_Foss/[code folder](https://github.com/ariyanzri/Capstone1_Foss/tree/main/code).**
 
 **Specific GitHub page/README for project detail and script documentation can be found [here](project/README.md)**
 
