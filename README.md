@@ -58,7 +58,7 @@ and cold regions utilizing machine learning & deep learning. His works directly 
 The goal of our project is to use a virtual machine using Atmosphere to run a script that will:
 1. Pull a compressed data folder containing many RGB images from the **[PhytoOracle Project](https://phytooracle.readthedocs.io/en/latest/)'s** CyVerse Data Store
 2. De-compress the data
-3. Run a Docker container from DockerHub container image to open a single image file for viewing
+3. Run a Docker container from DockerHub container image to open image metadata
 
 To accomplish this project:
 * Create a Data Management Plan for project using the Data Stewardship Wizard
@@ -69,9 +69,10 @@ To accomplish this project:
 
 **Our FOSS 2021 Team B [GitHub Repo](https://github.com/ariyanzri/Capstone1_Foss).** 
 
-**Most of the project specific files are located within our Capstone1_Foss/project [folder](https://github.com/ariyanzri/Capstone1_Foss/tree/main/project).**
+**Project specific README is located within our Capstone1_Foss/[project folder](https://github.com/ariyanzri/Capstone1_Foss/tree/main/project) with our code within
+the Capstone1_Foss/[code folder](https://github.com/ariyanzri/Capstone1_Foss/tree/main/code).
 
-**Specific page/README for project detail and script documentation can be found [here](project/README.md)**
+**Specific GitHub page/README for project detail and script documentation can be found [here](project/README.md)**
 
 ---
 # Thank you for your time!
