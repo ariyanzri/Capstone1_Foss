@@ -28,6 +28,7 @@ During the CyVerse FOSS Spring 2021 workshop, we have covered many helpful tools
     <img src="headshots/kangsan_hs.jpg" alt="Kangsan Lee" width="250" style="display: block;margin-left:auto;margin-right:auto;">
 </div>
 I am a second year phd student in the school of geography. One of my interesting area is wildfire, mainly focusing on forest restoration after fires. I prefer using LiDAR and Landsat-derived fire severity dataset. Interesting study area is Southwestern U.S. around Arizona and New Mexico. I am wondering whether we can visualize fire severity datset on the web through this capstone project. For more information about my research in Arizona Remote Sensing Center, please visit **[ARSC](https://snre.arizona.edu/facilities/arsc).**
+
 One of the most exiting things I learned from FOSS sessions is getting know how to use Github pages. Since I have used Github for a long time, I did not know how to make it. Moreover, making my own page is always exiting. Later, I will design my page and use it like my academic homepage, like others do. Another thing I feel exiting was meeting other friends who do similar things like me. This 'academic socializing' is always fun. Also, I really appreciate FOSS organizers to give me a chance to learn a lot of things including Atmosphere and containers. 
 
 ---
