@@ -1,6 +1,6 @@
-# Visualizing Drone Images
+# Visualizing Drone Images Exif Metadata
 
-In this part of our repository, we developed a number of scripts by which we can download, unzip and visualize a complete drone dataset. Please follow these steps to reproduce the results and visualize the codes. 
+In this part of our repository, we developed a number of scripts by which we can download, unzip and visualize the exif metadata of a complete drone dataset. Please follow these steps to reproduce the results and visualize the codes. 
 
 Steps to run the code
 * Install docker  
