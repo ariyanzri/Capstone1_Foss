@@ -28,10 +28,10 @@ These steps are assuming use of a virtual machine to perform task, possibly depl
  - ```docker pull \``` Docker command to pull a container image from a DockerHub repo
  - ```ariyanzarei/foss_image``` DockerHub repo and container image name to pull (will default to 'latest' tag)
 
-3.  Clone this GitHub repository to virtual machine ```/scratch``` workspace.  
-```git clone https://github.com/ariyanzri/Capstone1_Foss.git```
+3.  Clone this GitHub repository to virtual machine ```/home``` workspace.  
+```sudo git clone https://github.com/ariyanzri/Capstone1_Foss.git```
 
-- ```git clone \``` Git command to clone/copy a remote GitHub repo
+- ```sudo git clone \``` Git command to clone/copy a remote GitHub repo
 - ```https://github.com/ariyanzri/Capstone1_Foss.git``` URL to GitHub repo to clone
 
 4. Change directory to folder that contains script to run  
@@ -41,15 +41,19 @@ These steps are assuming use of a virtual machine to perform task, possibly depl
 - ```[path to git]/Capstone1_Foss/code``` You will have to provide path (fill in []) depending on where the GitHub repo was cloned to, then navigate to 'code' folder
 
 5. Change permissions of the run file and make it executable  
-```chmod +x run.sh```
+```sudo chmod +x run.sh```
 
-- ```chmod +x \``` Call used to change the access permissions of file system object (script) and executable (```+x``` flag)
+- ```sudo chmod +x \``` Call used to change the access permissions of file system object (script) and executable (```+x``` flag)
 - ```run.sh``` Shell script to be run to perform task
 
 5. Run this file to download the tar file and unzip it (_tar file is 3.22GB_) 
 ```./run.sh```
 
-6. Run the code file to visualize  
+6. Run the code file to visualize
+
+Note: Prior to running Docker, the file paths to the drone_data folder may need to be updated in the ```visualize.py``` script.
+Use ```sudo nano [path to local git repo]/Capstone1_Foss/code/visualize.py``` to update the ```drone_data``` directory path with the GNU nano text editor.
+
 ```sudo docker run -v /home:/home -it ariyanzarei/foss_image python3 [path to local git repo]/Capstone1_Foss/code/visualize.py```
 
  - ```sudo \``` gives super user privileges
@@ -68,6 +72,3 @@ PhytoOracle is licensed under the [MIT License](https://github.com/LyonsLab/Phyt
 For more information, please visit the PhytoOracle [Read the Docs website](https://phytooracle.readthedocs.io/en/latest/contents.html), which is partially built on code initially developed by the TERRA-REF project and AgPipeline team.
 
 This material based upon work supported by Cyverse & CCTools. Cyverse is based upon work supported by the National Science Foundation under Grant Numbers: DBI-0735191, DBI-1265383, DBI-1743442. CCTools is based upon work supported by the National Science Foundation under Grant Numbers: CCF-0621434 and CNS-0643229.
-
-
-
