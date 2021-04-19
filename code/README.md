@@ -7,7 +7,7 @@ Steps to run the code
  ```sudo snap install docker```. 
 * Pull this docker from docker hub to run the code with  
 ```sudo docker pull ariyanzarei/foss_image```
-* Clone this github repository.  
+* Clone this github repository to your home directory.  
 ```git clone https://github.com/ariyanzri/Capstone1_Foss.git```
 * Change directory to   
 ```cd [path to git]/Capstone1_Foss/code```.
