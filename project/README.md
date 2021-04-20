@@ -57,9 +57,9 @@ These steps are assuming use of a virtual machine to perform task, possibly depl
 
 7. Run the code file to visualize
 
-**Note:** Prior to running Docker, the file paths to the drone_data directory may need to be updated in the ```visualize.py``` script.
+**Note:** Prior to running the Docker container, the file paths to the ```drone_data``` directory may need to be updated in the ```visualize.py``` script.
 
-Use ```sudo nano [path to local git repo]/Capstone1_Foss/code/visualize.py``` to update the ```drone_data``` directory path with the GNU nano text editor.
+Use ```sudo nano [path to local git repo]/Capstone1_Foss/code/visualize.py``` to update the ```drone_data``` directory path with the GNU nano text editor on lines 3 and 13 of the ```visualize.py``` script.
 
 ```sudo docker run -v /home:/home -it ariyanzarei/foss_image python3 [path to local git repo]/Capstone1_Foss/code/visualize.py```
 
