@@ -74,7 +74,9 @@ To accomplish this project:
 **Project specific README is located within our Capstone1_Foss/[project folder](https://github.com/ariyanzri/Capstone1_Foss/tree/main/project) with our code within
 the Capstone1_Foss/[code folder](https://github.com/ariyanzri/Capstone1_Foss/tree/main/code).**
 
-**Specific GitHub page/README for project detail and script documentation can be found [here](project/README.md)**
 **Docker image on [Dockerhub](https://hub.docker.com/r/ariyanzarei/foss_image).**
+
+**Specific GitHub page/README for project detail and script documentation can be found [here](project/README.md)**
+
 ---
 # Thank you for your time!
