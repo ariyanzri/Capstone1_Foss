@@ -37,29 +37,29 @@ These steps are assuming use of a virtual machine to perform task, possibly depl
 - ```sudo git clone \``` Git command to clone/copy a remote GitHub repo
 - ```https://github.com/ariyanzri/Capstone1_Foss.git``` URL to GitHub repo to clone
 
-4. Change directory to folder that contains script to run 
+4. Change directory to folder that contains scripts to run 
  
 ```cd [path to git]/Capstone1_Foss/code```
 
 - ```cd \``` Linux command to change directory
 - ```[path to git]/Capstone1_Foss/code``` You will have to provide path (fill in []) depending on where the GitHub repo was cloned to, then navigate to 'code' folder
 
-5. Change permissions of the run file and make it executable
+5. Change permissions of the ```run.sh``` script and make it executable
   
 ```sudo chmod +x run.sh```
 
 - ```sudo chmod +x \``` Call used to change the access permissions of file system object (script) and executable (```+x``` flag)
 - ```run.sh``` Shell script to be run to perform task
 
-6. Run this file to download the tar file and unzip it (_tar file is 3.22GB_)
+6. Run script to download the tar file and unpack it (_imagery data is 3.22GB_)
  
 ```./run.sh```
 
-7. Run the code file to visualize
+7. Run the Python script to view imagery metadata
 
 **Note:** Prior to running the Docker container, the file paths to the ```drone_data``` directory may need to be updated in the ```visualize.py``` script.
 
-Use ```sudo nano [path to local git repo]/Capstone1_Foss/code/visualize.py``` to update the ```drone_data``` directory path with the GNU nano text editor on lines 3 and 13 of the ```visualize.py``` script.
+Use ```sudo nano [path to local git repo]/Capstone1_Foss/code/visualize.py``` to update the ```drone_data``` directory path with the GNU nano text editor on _lines 3 and 13_ of the ```visualize.py``` script.
 
 ```sudo docker run -v /home:/home -it ariyanzarei/foss_image python3 [path to local git repo]/Capstone1_Foss/code/visualize.py```
 
