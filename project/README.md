@@ -7,7 +7,7 @@ output: html_document
 # CyVerse FOSS 2021 Team B Project
 
 ## Purpose
-We sought out to apply multiple skills learned during the Spring 2021 CyVerse FOSS (Foundational Open Science Skills) Workshop as a team in a simple, but effective project. These skills include use of GitHub, GitHub pages, running a virtual machine with Atmosphere, pulling a script from GitHub repo, running a script employing Docker to perform a specific task (e.g., open metadata for a RGB drone image of lettuce from the PhytoOracle Project).
+We sought out to apply multiple skills learned during the Spring 2021 CyVerse FOSS (Foundational Open Science Skills) Workshop as a team in a simple, but effective, project. These skills include use of GitHub, GitHub pages, running a virtual machine with Atmosphere, pulling scripts from a GitHub repo, and running a script to download and unpack a folder from CyVerse Data Store, and employing a Docker contaner to perform a specific task (as in, view metadata for RGB drone images of lettuce from the PhytoOracle Project).
 
 ### Project Script and Steps
 A paired down version of this information is available in the [Project GitHub code directory](https://github.com/ariyanzri/Capstone1_Foss/tree/main/code).
