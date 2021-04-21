@@ -67,7 +67,7 @@ To accomplish this project:
 * Use existing FOSS 2021 Team B GitHub repo for version control of script to run on virtual machine 
 * Create an additional README to outline purpose of project, but also potential next steps/to dos
 
-**Checkout our project's current [Data Management Plan]().**
+**Checkout our project's current [Data Management Plan](https://researchers.ds-wizard.org/projects/eed812c2-ba18-4ac0-a187-bc61fc4284df).**
 
 **Our FOSS 2021 Team B [GitHub Repo](https://github.com/ariyanzri/Capstone1_Foss).** 
 
